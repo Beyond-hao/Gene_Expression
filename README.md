@@ -3,5 +3,5 @@ Train_model.sh contains two execution commands, which help us reproduce two mode
 
 CNN_model_Inference.ipynb shows the details of CNN-based model, inclduing the parameters, framework
 
-Enformer_Inference.ipynb shows the details of Enformer model, inclduing the parameters, framework
+Enformer_Inference.ipynb shows the details of Enformer model, inclduing the parameters, framework. Here, we can adjust the hyper-parameter of 'channels' in model_params to decrase the parameter in Enformer.
 
