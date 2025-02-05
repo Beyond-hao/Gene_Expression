@@ -7,4 +7,4 @@ CNN_model_Inference.ipynb shows the details of CNN-based model, inclduing the pa
 
 The results of CNN-based model are shown as follow:
 
-<img src="figure/result_CNN.jpg" width="300" />
+<img src="figure/result_CNN.jpg" width="600" />
